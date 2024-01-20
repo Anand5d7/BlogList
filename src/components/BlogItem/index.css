@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+
+.list-item {
+  list-style-type: none;
+  border-bottom: 1px solid #9aa5b1;
+  width: 100%;
+}
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.para {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+  text-align: flex-start;
+}
+.head {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: 600;
+}
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 600;
+}
